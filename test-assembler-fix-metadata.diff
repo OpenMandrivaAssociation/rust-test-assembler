@@ -1,0 +1,8 @@
+--- test-assembler-0.1.5/Cargo.toml	2016-09-12T23:02:38+02:00
++++ test-assembler-0.1.5/Cargo.toml	2019-03-09T15:36:29.251205+01:00
+@@ -12,4 +12,4 @@
+ ]
+ 
+ [dependencies]
+-byteorder = "0.5.0"
++byteorder = "1"
